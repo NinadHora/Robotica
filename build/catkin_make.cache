@@ -1,2 +1,0 @@
-ros_embarcados_tutorial:ros_teste_tutorial
--DCATKIN_DEVEL_PREFIX=/home/nina/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nina/catkin_ws/install -G Unix Makefiles

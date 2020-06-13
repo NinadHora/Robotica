@@ -1,8 +1,0 @@
-prefix=/home/nina/catkin_ws/install
-
-Name: ros_teste_tutorial
-Description: Description of ros_teste_tutorial
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
