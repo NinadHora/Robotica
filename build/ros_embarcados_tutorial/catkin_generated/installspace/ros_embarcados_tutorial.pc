@@ -1,0 +1,8 @@
+prefix=/home/nina/catkin_ws/install
+
+Name: ros_embarcados_tutorial
+Description: Description of ros_embarcados_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
