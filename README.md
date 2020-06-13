@@ -1,2 +1,5 @@
 # Rob-tica
-Projetos de robótica que fiz em cursos e estudos sobre a area. Principais linguagens utilizadas : Python, C e C++.
+Projetos de Robótica usando ROS (Robot Operating System) ,Sistema Operacional de Robôs usando C++ e Python.
+;
+Para instalar o Ros 1: http://wiki.ros.org/ROS/Introduction
+Para instalar o Ros 2 : https://index.ros.org/doc/ros2/
